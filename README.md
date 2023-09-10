@@ -1,1 +1,1 @@
-Website for the Enloe MHS Club.
+# Official website for Enloe MHS
